@@ -1,0 +1,15 @@
+# run `XXiaoA colorschemes` to see all colorschemes
+colorscheme: duskfox
+
+# lsp:
+#   # filetype: server
+#   cpp: clangd
+#   lua: sumneko_lua
+#   python: pylsp
+#   rust: rust_analyzer
+#   vim: vimls
+
+lualine_theme: auto
+
+# Only load the configuration if user's nvim version is expectable if it's true
+strict_version: true
